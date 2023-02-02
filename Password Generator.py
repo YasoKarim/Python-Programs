@@ -1,9 +1,10 @@
 '''
 Author: Yasmine EL Shafei
 Password generator
+If it is 10 letters
 60 % => 6 characters 3 (lowercase [a-z])  3 (uppercase [A-Z])
 30 % => 3 digits [0-9]
-10 % => 1 special charcaters [_|/|\]
+10 % => 1 special charcaters [_ | / | \ , ...]
 Module used
 string 
 ------- 

@@ -1,7 +1,7 @@
 '''
 Author: Yasmine El Shafei
 Class for Employee containing:
-Attributes [id ,firstname, lastname , salary], Anuual Salary, Raise Salary
+Attributes [id , firstname , lastname , salary], Anuual Salary, Raise Salary
 '''
 class Employee:
     def __init__(self, id, firstname, lastname, salary):
