@@ -4,7 +4,7 @@ Password generator
 60 % => 6 characters 3 (lowercase [a-z])  3 (uppercase [A-Z])
 30 % => 3 digits [0-9]
 10 % => 1 special charcaters [_|/|\]
-Module useded
+Module used
 string 
 ------- 
 ascci_lowercase

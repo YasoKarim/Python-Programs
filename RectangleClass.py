@@ -1,3 +1,8 @@
+'''
+Author: Yasmine El Shafei
+Class for Reactangle shape containing:
+Attributes [length, width], Area, Perimeters
+'''
 class Rectangle:
     def __init__(self, length, width):
         self.__length = length
