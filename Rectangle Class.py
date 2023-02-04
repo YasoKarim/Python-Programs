@@ -1,7 +1,10 @@
 '''
 Author: Yasmine El Shafei
+The Rectangle Class
 Class for Reactangle shape containing:
 Attributes [length, width], Area, Perimeters
+Exp => 1.3
+Link: https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html#zz-2.10
 '''
 class Rectangle:
     def __init__(self, length, width):
