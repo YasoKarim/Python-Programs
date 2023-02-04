@@ -1,7 +1,9 @@
 '''
 Author: Yasmine El Shafei
 Class for Employee containing:
-Attributes [id , firstname , lastname , salary], Anuual Salary, Raise Salary
+Attributes [id , firstname , lastname , salary], Anuual Salary, Raise Salary]
+1.4  Ex: The Employee Class
+Link: https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html#zz-1.4
 '''
 class Employee:
     def __init__(self, id, firstname, lastname, salary):
