@@ -1,3 +1,7 @@
+'''
+Author Name: Yasmine El Shafei
+Increase Element by 2 using lambda
+'''
 size = int(input('Enter size: '))
 list2 = []
 for i in range(int(size)):
