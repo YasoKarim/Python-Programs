@@ -8,4 +8,5 @@ list = []
 for i in range(size):
     element = input("Element: ")
     list.append(element)
+    print(list)
 print(random.choice(list))    
